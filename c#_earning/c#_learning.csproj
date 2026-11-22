@@ -3,9 +3,10 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net10.0</TargetFramework>
-    <RootNamespace>c__earning</RootNamespace>
+    <RootNamespace>c__learning</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>c__constants.Constants</StartupObject>
   </PropertyGroup>
 
 </Project>
